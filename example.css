@@ -1,0 +1,17 @@
+body{
+    background-image: url(../res/connection.jpg);
+}
+body{
+    background-color: seagreen;
+}
+h1{
+    background-color: turquoise;
+}
+h2{
+    color: whitesmoke;
+}
+div{
+    margin-right: 15cm;
+    margin-top: 5cm;
+    margin-left: 15cm;
+}
